@@ -1,0 +1,41 @@
+
+#admindashboard {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+#admindashboardform {
+  display: inline-flex;
+  width: 70%;
+  height: 70vh;
+  margin: 20px;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 0 15px rgb(80, 79, 79);
+  background-color: #f6cdf4;
+}
+select {
+  /* In order to define widths */
+  display: inline-block;
+  background-color: rgb(240, 165, 241);
+  border-radius: 10px;
+ 
+}
+h2 {
+  text-align: center;
+}
+#formadmin {
+  padding: 20px;
+  align-self: center;
+  text-align: center;
+}
+label {
+  padding: 10px;
+}
+

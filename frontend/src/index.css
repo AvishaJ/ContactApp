@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: url("https://img.freepik.com/free-vector/blue-curve-background_53876-113112.jpg?w=826&t=st=1661509002~exp=1661509602~hmac=d4eb257b7d1557e523f445152b036b8390eff912a95da6b777a3bbbf82eb16cc"); */
+  background-image:url("background.jpg");
+
+  background-color: skyblue;
+  background-repeat: no-repeat;
+  background-size: 2000px;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

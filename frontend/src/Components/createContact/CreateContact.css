@@ -1,0 +1,38 @@
+.button {
+    box-shadow: 2px 2px #888888;
+    background-color: rgb(196, 75, 184);
+    border-radius: 10px;
+    padding: 8px 30px;
+    
+  }
+
+  body {
+    margin:50px 0px; padding:0px;
+    text-align:center;
+    
+}
+#admindashboardform {
+  display: inline-flex;
+  width: 70%;
+  height: 70vh;
+  margin: 20px;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 0 15px rgb(80, 79, 79);
+  background-color: #f6cdf4;
+}
+#formadmin {
+  padding: 20px;
+  align-self: center;
+  text-align: center;
+}
+#admindashboard {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
